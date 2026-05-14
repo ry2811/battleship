@@ -26,4 +26,5 @@ A simple Battleship game built with pure linked lists for managing the game boar
 
 ## Project Goal
 -Demonstrates how linked lists can be used to manage a Battleship game board and ship logic without using arrays or vectors.
+
 -Submit this project as a Data Structer and Algorithm assigment for university
